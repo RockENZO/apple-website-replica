@@ -22,9 +22,9 @@ Currently, two official plugins are available:
 ## Installation
 Install dependencies:
 
-    ```sh
-    npm install
-    ```
+```sh
+npm install
+```
 
 ## Usage
 
