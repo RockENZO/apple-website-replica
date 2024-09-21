@@ -44,3 +44,15 @@ The `VideoCarousel` component is designed to provide a seamless video playback e
 - **Progress Bar Animation**: Utilizes GSAP to animate a progress bar that reflects the current playback position of the video.
 - **State Management**: Manages video playback state, including handling when videos end and transitioning to the next video in the carousel.
 
+### ModelView Component
+The `ModelView` component integrates 3D models into the website using `three.js` and `@react-three/fiber`. Key features include:
+
+- **3D Model Rendering**: Renders interactive 3D models of Apple products.
+- **Lighting and Shadows**: Utilizes `three.js` lighting to create realistic shadows and highlights.
+- **Loader Component**: Displays a loading indicator while 3D models are being loaded.
+
+### Lights Component
+The `Lights` component sets up the lighting for the 3D scene. Key features include:
+
+- **Ambient Light**: Provides overall illumination to the scene.
+- **Directional Light**: Simulates sunlight, casting shadows and highlights on the 3D models.
