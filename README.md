@@ -2,6 +2,9 @@
 
 This project is a replica of the Apple website, built using React and Tailwind CSS. It features a dynamic and interactive user interface that showcases various Apple products, particularly the iPhone 15 Pro. The project includes components for navigation, hero sections, highlights, and a video carousel, all designed to provide a seamless and engaging user experience.
 
+## Demo
+![WebsiteDemo](ScreenRecording.gif)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
